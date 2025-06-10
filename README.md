@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Tszon Tseng :)
 
-I'm about to start my internship at BEAT (Better Environment and Transportation) from Jun 2025 to Jul 2025!
+I'm about to start my internship at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) from Jun 2025 to Jul 2025!
 
 Actively looking forward to long-term job opportunities in 2025!
 
