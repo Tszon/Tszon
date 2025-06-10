@@ -2,6 +2,7 @@
 
 🎯 **Aspiring Data Scientist & AI Engineer**  
 🎓 BSc in Astrophysics with Space Science | UK-based
+
 About to intern at BEAT (Better Environment and Transportation) from Jun 2025 to Jul 2025!
 ---
 
