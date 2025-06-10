@@ -42,7 +42,7 @@ I'm currently focused on:
 
 ## 📫 Let's Connect
 
-- 💼 [LinkedIn]([https://www.linkedin.com/in/tszontseng/](https://www.linkedin.com/in/tszon-tseng-a381aa297/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/tszon-tseng-a381aa297/)
 - 📬 Email: tsenghintsz@gmail.com
 
 ---
