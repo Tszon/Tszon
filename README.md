@@ -8,6 +8,7 @@ Actively looking forward to long-term job opportunities in 2025!
 ## 🚀 About Me
 
 🎯 **Aspiring Data Scientist & AI Engineer**, certified by [DataCamp](https://www.datacamp.com/certificate/AEDS0014305898265)
+
 🎓 BSc in Astrophysics with Space Science | UK-based
 
 With a background in astrophysics and a growing portfolio in machine learning, I'm passionate about solving real-world problems with data. Whether it’s building LLM apps, forecasting sales with deep learning, or exploring interpretable AI, I’m constantly pushing my limits to learn, build, and innovate.
