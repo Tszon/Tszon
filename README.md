@@ -28,7 +28,7 @@ I'm currently focused on:
 `Python` `SQL` `LaTeX`
 
 **Data Science / AI:**  
-`Pandas` `NumPy` `Scikit-learn` `XGBoost` `PyTorch`  `Hugging Face` 
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `emcee` `Scikit-learn` `XGBoost` `PyTorch` `Hugging Face` 
 
 **Tools:**  
 `Git` `VS Code` `PostgreSQL` 
@@ -37,9 +37,9 @@ I'm currently focused on:
 
 ## 🌱 My Current Learning Roadmap
 
-- End-to-End MLOps best practices with MLflow & Docker  
-- Prompt engineering and fine-tuning LLMs  
+- MLOps: End-to-End Machine Learning deployment with MLflow & Docker  
 - Deploying models with FastAPI and Streamlit  
+- Prompt engineering and fine-tuning LLMs  
 - Reinforcement Learning
 
 ---
