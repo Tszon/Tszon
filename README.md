@@ -1,12 +1,13 @@
 # 👋 Hi there, I'm Tszon Tseng :)
 
-🎯 **Aspiring Data Scientist & AI Engineer**  
-🎓 BSc in Astrophysics with Space Science | UK-based
+I'm about to start my intern at BEAT (Better Environment and Transportation) from Jun 2025 to Jul 2025!
 
-About to intern at BEAT (Better Environment and Transportation) from Jun 2025 to Jul 2025!
 ---
 
 ## 🚀 About Me
+
+🎯 **Aspiring Data Scientist & AI Engineer**  
+🎓 BSc in Astrophysics with Space Science | UK-based
 
 With a background in astrophysics and a growing portfolio in machine learning, I'm passionate about solving real-world problems with data. Whether it’s building LLM apps, forecasting sales with deep learning, or exploring interpretable AI, I’m constantly pushing my limits to learn, build, and innovate.
 
@@ -31,7 +32,7 @@ I'm currently focused on:
 
 ---
 
-## 🌱 Currently Learning
+## 🌱 My Current Learning Roadmap
 
 - End-to-End MLOps best practices with MLflow & Docker  
 - Prompt engineering and fine-tuning LLMs  
@@ -40,7 +41,7 @@ I'm currently focused on:
 
 ---
 
-## 📫 Let's Connect
+## 📫 Let's Connect!
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/tszon-tseng-a381aa297/)
 - 📬 Email: tsenghintsz@gmail.com
