@@ -28,7 +28,7 @@ I'm currently focused on:
 `Python` `SQL` `LaTeX`
 
 **Data Science / AI:**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `emcee` `Scikit-learn` `XGBoost` `PyTorch` `Hugging Face` 
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `emcee` `Scikit-learn` `XGBoost` `PyTorch` `Hugging Face` `SHAP` `LIME`
 
 **Tools:**  
 `Git` `VS Code` `PostgreSQL` 
