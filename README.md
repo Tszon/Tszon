@@ -1,3 +1,4 @@
+![LinkedIn Banner 3](https://github.com/user-attachments/assets/882dbdfc-ccd1-445f-831a-359603d8e2dd)
 # 👋 Hi there, I'm Tszon Tseng :)
 
 I'm about to start my internship at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) from Jun 2025 to Jul 2025!
