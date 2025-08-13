@@ -40,7 +40,7 @@ I'm currently focused on:
 
 - MLOps: End-to-End Machine Learning deployment with MLflow & Docker  
 - Deploying models with FastAPI and Streamlit  
-- Prompt engineering and fine-tuning LLMs  
+- Cloud Computing Services (e.g. AWS)  
 - Reinforcement Learning
 
 ---
