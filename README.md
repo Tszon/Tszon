@@ -26,19 +26,19 @@ I'm currently focused on:
 ## 🛠️ Tech Stack
 
 **Languages:**  
-`Python` `SQL` `LaTeX`
+`Python` `PostgreSQL` `CMD/Bash` `LaTeX`
 
 **Data Science / AI:**  
 `Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `emcee` `Scikit-learn` `XGBoost` `PyTorch` `Hugging Face` `SHAP` `LIME`
 
 **Tools:**  
-`Git` `VS Code` `PostgreSQL` 
+`Git` `Docker` `VS Code`
 
 ---
 
 ## 🌱 My Current Learning Roadmap
 
-- MLOps: End-to-End Machine Learning deployment with MLflow & Docker  
+- MLOps: End-to-End Machine Learning deployment with MLflow, Docker & Kubernetes  
 - Deploying models with FastAPI and Streamlit  
 - Cloud Computing Services (e.g. AWS)  
 - Reinforcement Learning
