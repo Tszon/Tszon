@@ -1,55 +1,72 @@
 ![LinkedIn Banner 3](https://github.com/user-attachments/assets/882dbdfc-ccd1-445f-831a-359603d8e2dd)
 # 👋 Hi there, I'm Tszon Tseng :)
 
-I'm currently a Data Science intern at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since June 2025!
-
-Actively looking forward to long-term job opportunities in 2025!
+I'm currently a **Data Science Intern** at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since June 2025 🌍.  
+Actively seeking **long-term Data Science / AI roles in 2025**!
 
 ---
 
 ## 🚀 About Me
 
-🎯 **Aspiring Data Scientist & AI Engineer**, certified by [DataCamp](https://www.datacamp.com/certificate/AEDS0014305898265)
+🎯 **Aspiring Data Scientist & AI Engineer**, certified by [DataCamp](https://www.datacamp.com/certificate/AEDS0014305898265)  
 
-🎓 BSc in Astrophysics with Space Science | UK-based
+🎓 **BSc in Astrophysics with Space Science (UK)** | Data-driven problem solver  
 
-With a background in astrophysics and a growing portfolio in machine learning, I'm passionate about solving real-world problems with data. Whether it’s building LLM apps, forecasting sales with deep learning, or exploring interpretable AI, I’m constantly pushing my limits to learn, build, and innovate.
+I started by studying galaxies, but found my real passion in **data-driven discovery**. Today, I design **end-to-end ML projects**—from raw data pipelines to interactive dashboards—that reveal insights and drive smarter decisions.  
 
-I'm currently focused on:
-- 🧠 LLM development with LangChain & Hugging Face
-- 📈 Time-series forecasting with deep learning (LSTMs, CNNs, SARIMAX)
-- 🔎 Building interpretable and responsible AI systems
-- 🔬 Scientific computing & simulation
+✨ Currently focused on:
+- ⚡ **Scientific Computing & Simulation** : Transportation sector
+- 🧠 **LLMs & Generative AI**: Hugging Face, fine-tuning transformers  
+- 📈 **Time-Series Forecasting**: LSTM, CNNs, SARIMAX for predictive analytics  
+- 🔎 **Interpretable ML**: SHAP, LIME for model transparency  
+
 
 ---
 
 ## 🛠️ Tech Stack
 
-**Languages:**  
-`Python` `PostgreSQL` `CMD/Bash` `LaTeX`
+**Languages**  
+`Python` | `SQL (PostgreSQL, Snowflake)` | `Bash` | `LaTeX`
 
-**Data Science / AI:**  
-`Pandas` `NumPy` `Matplotlib` `Seaborn` `Scipy` `emcee` `Scikit-learn` `XGBoost` `PyTorch` `Hugging Face` `SHAP` `LIME`
+**Data Science & ML**  
+`Pandas` `NumPy` `Matplotlib` `Seaborn` `SciPy`  
+`Scikit-learn` `XGBoost` `PyTorch` `SHAP` `LIME`  
+`emcee` (Bayesian Inference)
 
-**Tools:**  
-`Git` `Docker` `VS Code`
+**Tools & Platforms**  
+`Git & GitHub` | `Docker` | `VS Code` | `Streamlit` | `MLflow`
+
+---
+
+## 📂 Featured Projects
+
+📊 **[End-to-End Customer Churn Prediction](https://github.com/Tszon/End-to-End_DS_ML_Project)**  
+- Built an **ML pipeline** (Logistic Regression, RF, XGBoost, Voting Classifier) → **ROC-AUC: 0.87**  
+- Applied **KMeans & HDBSCAN clustering** with UMAP to segment customers into actionable personas  
+- Used **SHAP explainability** to reveal key churn drivers (tenure, contract type, fiber optic service)  
+- Deployed interactive **[Streamlit App](https://tszontseng-telco-end2end-customer-churn-project.streamlit.app/)**  
+
+🤖 **[Emotion-Aware Multimodal Chatbot](#)** *(WIP)*  
+- Combines **text (LLMs), audio (Wav2Vec2), and video (CNNs)** for real-time emotion detection  
+- Integrates into an intelligent **AI companion system**  
+
+📈 **[Walmart Sales Forecasting](#)**  
+- Designed **LSTM-based deep learning pipeline** with feature engineering  
+- Delivered improved **forecast accuracy on multi-store time series**  
 
 ---
 
 ## 🌱 My Current Learning Roadmap
-
-- MLOps: End-to-End Machine Learning deployment with MLflow, Docker & Kubernetes  
-- Deploying models with FastAPI and Streamlit  
-- Cloud Computing Services (e.g. AWS)  
-- Reinforcement Learning
+- Big Data Platforms (PySpark, AWS, Databricks)  
+- Reinforcement Learning & Advanced Deep Learning  
 
 ---
 
 ## 📫 Let's Connect!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/tszon-tseng-a381aa297/)
-- 📬 Email: tsenghintsz@gmail.com
+- 💼 [LinkedIn](https://www.linkedin.com/in/tszon-tseng-a381aa297/)  
+- 📬 Email: **tsenghintsz@gmail.com**  
 
 ---
 
-*“The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'” — Isaac Asimov*
+*"The most exciting phrase to hear in science, the one that heralds new discoveries, is not 'Eureka!' but 'That's funny...'" — Isaac Asimov*  
