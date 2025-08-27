@@ -1,8 +1,9 @@
-![LinkedIn Banner 3](<img width="1584" height="396" alt="LinkedIn Banner 4" src="https://github.com/user-attachments/assets/fd52ba23-e3eb-4a49-be2d-43734df1f390" />)
+<img width="1584" height="396" alt="LinkedIn Banner 4" src="https://github.com/user-attachments/assets/b29cca7f-0db1-4210-956e-961b1572a5fd" />
+![LinkedIn Banner 4]("https://github.com/user-attachments/assets/fd52ba23-e3eb-4a49-be2d-43734df1f390")
 # 👋 Hi there, I'm Tszon Tseng :)
 
 I'm currently a **Data Science Intern** at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since June 2025 🌍.  
-Actively seeking **long-term Data Science / AI roles in 2025**!
+Actively seeking **long-term Data Science/AI roles in 2025**!
 
 ---
 
