@@ -11,7 +11,7 @@ Actively seeking **long-term Data Science/AI roles in 2025**!
 
 🎯 **Aspiring Data Scientist & AI Engineer**, certified by [DataCamp](https://www.datacamp.com/certificate/AEDS0014305898265)  
 
-🎓 **BSc in Astrophysics with Space Science (UK)**
+🎓 **BSc in Astrophysics with Space Science (1st Class)**
 
 I started by studying galaxies, but found my real passion in **data-driven discovery**. Today, I design **end-to-end ML projects** from raw data pipelines to interactive dashboards that reveal insights and drive smarter decisions.  
 
