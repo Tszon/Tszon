@@ -12,16 +12,7 @@ Actively seeking **long-term Data Science / AI roles in 2025**!
 
 🎓 **BSc in Astrophysics with Space Science (UK)**
 
-I started by studying galaxies, but found my real passion in **data-driven discovery**. Today, I design **end-to-end ML projects**—from raw data pipelines to interactive dashboards—that reveal insights and drive smarter decisions.  
-
-✨ Currently focused on:
-- ⚡ **Scientific Computing & Simulation** : Transportation sector
-- 🧠 **LLMs & Generative AI**: Hugging Face, fine-tuning transformers  
-- 📈 **Time-Series Forecasting**: LSTM, CNNs, SARIMAX for predictive analytics  
-- 🔎 **Interpretable ML**: SHAP, LIME for model transparency  
-
-
----
+I started by studying galaxies, but found my real passion in **data-driven discovery**. Today, I design **end-to-end ML projects** from raw data pipelines to interactive dashboards that reveal insights and drive smarter decisions.  
 
 ## 🛠️ Tech Stack
 
@@ -35,6 +26,12 @@ I started by studying galaxies, but found my real passion in **data-driven disco
 
 **Tools & Platforms**  
 `Git & GitHub` | `Docker` | `VS Code` | `Streamlit` | `MLflow`
+
+✨ Currently focused on:
+- ⚡ **Scientific Computing & Simulation** : Transportation sector
+- 🧠 **LLMs & Generative AI**: Hugging Face, fine-tuning transformers  
+- 📈 **Time-Series Forecasting**: LSTM, CNNs, SARIMAX for predictive analytics  
+- 🔎 **Interpretable ML**: SHAP, LIME for model transparency  
 
 ---
 
