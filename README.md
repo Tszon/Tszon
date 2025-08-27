@@ -40,17 +40,19 @@ I started by studying galaxies, but found my real passion in **data-driven disco
 
 ## 📂 Featured Projects
 
-📊 **[End-to-End Telco Customer Churn Prediction](https://github.com/Tszon/End-to-End_DS_ML_Project)**  
+📊 **[End-to-End Customer Churn Prediction](https://github.com/Tszon/End-to-End_DS_ML_Project)**  
 - Built an **ML pipeline** (Logistic Regression, RF, XGBoost, Voting Classifier) → **ROC-AUC: 0.87**  
 - Applied **KMeans & HDBSCAN clustering** with UMAP to segment customers into actionable personas  
-- Used **SHAP explainability** to reveal key churn drivers (tenure, contract type, fiber optic service)  
-- Deployed interactive **[Streamlit App](https://tszontseng-telco-end2end-customer-churn-project.streamlit.app/)**  
-
+- Used **SHAP explainability** to reveal key churn drivers (tenure, contract type, fibre optic service)  
+- Deployed interactive **[Streamlit App](https://tszontseng-telco-end2end-customer-churn-project.streamlit.app/)** for business users  
+- Containerised workflow with **Docker**, reducing setup time by >80% and ensuring reproducibility  
+- Tracked experiments, metrics, and models with **MLflow**, improving transparency and versioning across the pipeline  
+- Designed an **A/B testing simulator** with Chi-Square tests to measure the impact of retention strategies  
 ---
 
 ## 🌱 My Current Learning Roadmap
-- Big Data Platforms (PySpark, AWS, Databricks)  
-- Reinforcement Learning & Advanced Deep Learning  
+- **Big Data** Platforms (PySpark, AWS, Databricks)  
+- **Deep Reinforcement** Learning  
 
 ---
 
