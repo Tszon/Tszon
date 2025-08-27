@@ -10,7 +10,7 @@ Actively seeking **long-term Data Science / AI roles in 2025**!
 
 🎯 **Aspiring Data Scientist & AI Engineer**, certified by [DataCamp](https://www.datacamp.com/certificate/AEDS0014305898265)  
 
-🎓 **BSc in Astrophysics with Space Science (UK)** | Data-driven problem solver  
+🎓 **BSc in Astrophysics with Space Science (UK)**
 
 I started by studying galaxies, but found my real passion in **data-driven discovery**. Today, I design **end-to-end ML projects**—from raw data pipelines to interactive dashboards—that reveal insights and drive smarter decisions.  
 
@@ -40,19 +40,11 @@ I started by studying galaxies, but found my real passion in **data-driven disco
 
 ## 📂 Featured Projects
 
-📊 **[End-to-End Customer Churn Prediction](https://github.com/Tszon/End-to-End_DS_ML_Project)**  
+📊 **[End-to-End Telco Customer Churn Prediction](https://github.com/Tszon/End-to-End_DS_ML_Project)**  
 - Built an **ML pipeline** (Logistic Regression, RF, XGBoost, Voting Classifier) → **ROC-AUC: 0.87**  
 - Applied **KMeans & HDBSCAN clustering** with UMAP to segment customers into actionable personas  
 - Used **SHAP explainability** to reveal key churn drivers (tenure, contract type, fiber optic service)  
 - Deployed interactive **[Streamlit App](https://tszontseng-telco-end2end-customer-churn-project.streamlit.app/)**  
-
-🤖 **[Emotion-Aware Multimodal Chatbot](#)** *(WIP)*  
-- Combines **text (LLMs), audio (Wav2Vec2), and video (CNNs)** for real-time emotion detection  
-- Integrates into an intelligent **AI companion system**  
-
-📈 **[Walmart Sales Forecasting](#)**  
-- Designed **LSTM-based deep learning pipeline** with feature engineering  
-- Delivered improved **forecast accuracy on multi-store time series**  
 
 ---
 
