@@ -1,4 +1,5 @@
-<img width="1584" height="396" alt="LinkedIn Banner 4" src="https://github.com/user-attachments/assets/b29cca7f-0db1-4210-956e-961b1572a5fd" />
+<img width="1584" height="396" alt="LinkedIn Banner 4" src="https://github.com/user-attachments/assets/b29cca7f-0db1-4210-956e-961b1572a5fd"/>
+
 # 👋 Hi there, I'm Tszon Tseng :)
 
 I'm currently a **Data Science Intern** at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since June 2025 🌍.  
