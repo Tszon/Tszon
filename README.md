@@ -2,8 +2,7 @@
 
 # 👋 Hi there, I'm Tszon Tseng :)
 
-I'm currently a **Data Science Intern** at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since June 2025 🌍.  
-Actively seeking **long-term Data Science/AI roles in 2025**!
+I'm currently a **Back-End Engineer** at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since Oct 2025 🌍.  
 
 ---
 
