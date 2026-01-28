@@ -2,7 +2,7 @@
 
 # 👋 Hi there, I'm Tszon Tseng!
 
-I'm currently a **Back-End Engineer** at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since Oct 2025 🌍.  
+I'm working as a **Back-End Engineer** at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since Oct 2025 🌍.  
 
 ---
 
