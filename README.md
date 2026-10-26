@@ -1,7 +1,5 @@
 <img width="1584" height="396" alt="LinkedIn Banner 4" src="https://github.com/user-attachments/assets/b29cca7f-0db1-4210-956e-961b1572a5fd"/>
 
-# Hi there, I am Tszon Tseng!
-
 I am working as a **Back-End Engineer** at [BEAT](https://www.beatzero.co.uk/) (Better Environment and Transportation) since Oct 2025.  
 
 ---
